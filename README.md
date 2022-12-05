@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mikołaj
 - 👀 I’m interested in C# and Unity.
 - 🌱 I’m currently learning C# programming language.
-- 👷 I’m currently working on two private Unity projects. 
+- 👷 I’m currently working on some private Unity projects. 
 <!---
 - 📫 How to reach me ...
 --->
