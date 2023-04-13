@@ -6,6 +6,12 @@
 - 📫 How to reach me ...
 --->
 
+My 2D mobile puzzle game:\
+[WALL OF COLORS](https://miko-m.itch.io/wall-of-colors)    
+[WALL OF COLORS repository](https://github.com/MikolajMal/WallOfColors_Unity)
+
+![WOC_MainMenu_Gif](https://github.com/MikolajMal/WallOfColors_Unity/blob/main/Gifs/MenuGif.gif)![WOC_Gameplay_GIF](https://github.com/MikolajMal/WallOfColors_Unity/blob/main/Gifs/GameplayGif.gif)
+
 My game demo:    
 [MischiefOffice](https://miko-m.itch.io/mischief-office)    
 [MischiefOffice_repository](https://github.com/MikolajMal/MischiefOffice_DEMO_Unity)
