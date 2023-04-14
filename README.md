@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Mikołaj
+# 👋 Hi, I’m Mikołaj
 - 👀 I’m interested in C# and Unity.
 - 🌱 I’m currently making some small project using C# programming language.
 - 👷 I’m currently working on some private Unity projects. 
 <!---
 - 📫 How to reach me ...
 --->
+
+## My projects:
 
 My 2D mobile puzzle game:\
 [WALL OF COLORS](https://miko-m.itch.io/wall-of-colors)    
