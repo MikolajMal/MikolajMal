@@ -1,14 +1,32 @@
 # 👋 Hi, I’m Mikołaj
-- 👀 I’m interested in C# and Unity.
-- 🌱 I’m currently making some small project using C# programming language.
-- 👷 I’m currently working on some private Unity projects. 
 <!---
 - 📫 How to reach me ...
 --->
 
 # My Projects
-
 <div align="center">
+
+## <p align="center">Guess The Country</p>
+
+### <p align="center">Web app made with JavaScript, HTML, CSS which uses external API.</p>
+ 
+Repository Link: [GuessTheCountry](https://github.com/MikolajMal/GuessTheCountry)
+<div style="display:flex; justify-content:center;">
+ <img src="https://github.com/MikolajMal/GuessTheCountry/blob/main/screenshots/MainMenuScreenshot.png" width="200" />
+<img src="https://github.com/MikolajMal/GuessTheCountry/blob/main/screenshots/FlagsGameScreenshot.png" width="200" />
+ <img src="https://github.com/MikolajMal/GuessTheCountry/blob/main/screenshots/GameEndedScreenshot.png" width="200" />
+</div>
+ 
+## <p align="center">House Cleaning Schedule</p>
+
+### <p align="center">Desktop app made with WPF, Entity Framework Core and SQLite using MVVM design pattern.</p>
+ 
+Repository Link: [HouseCleaningSchedule](https://github.com/MikolajMal/HouseCleaningSchedule)
+<div style="display:flex; justify-content:center;">
+<img alt="GIF" src="https://github.com/MikolajMal/HouseCleaningSchedule/blob/main/Gifs/AddRoom.gif" width="200" />
+ <img alt="GIF" src="https://github.com/MikolajMal/HouseCleaningSchedule/blob/main/Gifs/NewAddTask.gif" width="200" />
+ <img alt="GIF" src="https://github.com/MikolajMal/HouseCleaningSchedule/blob/main/Gifs/EditRoom.gif" width="200" />
+</div>
  
 ## <p align="center">Todo List App</p>
 
