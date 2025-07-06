@@ -5,6 +5,20 @@
 
 # My Projects
 <div align="center">
+ 
+## <p align="center">Bartender Cheat Sheet</p>
+
+### <p align="center">Web app built in ASP.NET Core MVC that allows browsing and filtering cocktails using an external API.</p>
+
+Repository Link: [BartenderCheatSheet](https://github.com/MikolajMal/BartenderCheatSheet)
+
+<div style="display:flex; justify-content:center;">
+  <img src="https://github.com/MikolajMal/BartenderCheatSheet/blob/main/Screenshots/Home.png" width="200" />
+  <img src="https://github.com/MikolajMal/BartenderCheatSheet/blob/main/Screenshots/SearchByName.png" width="200" />
+  <img src="https://github.com/MikolajMal/BartenderCheatSheet/blob/main/Screenshots/SearchByIngredient.png" width="200" />
+</div>
+
+---
 
 ## <p align="center">Guess The Country</p>
 
@@ -16,6 +30,8 @@ Repository Link: [GuessTheCountry](https://github.com/MikolajMal/GuessTheCountry
 <img src="https://github.com/MikolajMal/GuessTheCountry/blob/main/screenshots/FlagsGameScreenshot.png" width="200" />
  <img src="https://github.com/MikolajMal/GuessTheCountry/blob/main/screenshots/GameEndedScreenshot.png" width="200" />
 </div>
+
+---
  
 ## <p align="center">House Cleaning Schedule</p>
 
@@ -27,6 +43,8 @@ Repository Link: [HouseCleaningSchedule](https://github.com/MikolajMal/HouseClea
  <img alt="GIF" src="https://github.com/MikolajMal/HouseCleaningSchedule/blob/main/Gifs/NewAddTask.gif" width="200" />
  <img alt="GIF" src="https://github.com/MikolajMal/HouseCleaningSchedule/blob/main/Gifs/EditRoom.gif" width="200" />
 </div>
+
+---
  
 ## <p align="center">Todo List App</p>
 
@@ -41,6 +59,8 @@ Repository Link: [TodoList](https://github.com/MikolajMal/TodoListApp_IN-PROGRES
 
 
 </div>
+
+---
 
 <div align="center">
 
@@ -60,6 +80,8 @@ Game Link: [Wall of colors](https://miko-m.itch.io/wall-of-colors)
 </div>
 
 <div align="center">
+
+---
 
 ## <p align="center">Mischief Office</p>
 
